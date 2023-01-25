@@ -61,6 +61,15 @@
     },
     "authCertificatePassword": {
       "value": ""
+    },
+    "allowInvalidClientCertificates": {
+      "value": true
+    },
+    "sitecoreSKU": {
+      "value": ""
+    },
+    "solrConnectionString": {
+      "value": ""
     }
   }
 }
